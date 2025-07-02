@@ -91,6 +91,22 @@ header > .header-content > .login > button > img{
     cursor: pointer;
 }
 
+.financial > .smartphone {
+    position: relative;
+    width: 30rem;
+    height: 30rem;
+    margin-left: 5rem;
+}
+
+.financial > .smartphone > img {
+    position: absolute; 
+    background: none;
+}
+
+#smartphone{
+    top: -2rem;
+}
+
 #transparent{
     background: var(--dark-background-color);
     border: 0.06rem solid;
